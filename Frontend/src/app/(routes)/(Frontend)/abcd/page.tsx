@@ -2,6 +2,33 @@
 import React, { useState } from "react";
 
 const page = () => {
+
+
+    const productData = {
+        title: "Oppo A5x 4G",
+        price: "৳13,990.00",
+        brand: "Oppo",
+        category: "Smartphones",
+        addedOn: "14th May, 2025",
+        lastUpdated: "26th May, 2025",
+        specs: [
+            { label: "Availability", value: "Official" },
+            { label: "Released", value: "15 May 2025" },
+            { label: "OS", value: "Android 15, ColorOS 15" },
+            { label: "Display", value: `6.67" 720x1604 Pixels` },
+            { label: "Camera", value: "32MP 1080p" },
+            { label: "RAM", value: "4-8GB RAM" },
+            { label: "Chipset", value: "Snapdragon 6s 4G Gen1" },
+            { label: "Battery", value: "6000mAh 45W" },
+        ],
+    };
+
+
+
+
+
+
+
     const images = [
         "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
         "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
@@ -31,7 +58,7 @@ const page = () => {
                         {images.map((img, index) => (
                             <div
                                 key={index}
-                                className={`w-[70px] h-[70px] md:w-[88px] md:h-[88px] border rounded-md p-1 cursor-pointer ${selectedImage === img ? "border-red-500" : "border-blue-500"
+                                className={`max-w-[70px] h-[70px] md:max-w-[88px] md:h-[88px] border rounded-md p-1 cursor-pointer ${selectedImage === img ? "border-red-500" : "border-blue-500"
                                     }`}
                                 onClick={() => setSelectedImage(img)}
                             >

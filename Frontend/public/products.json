@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=500&q=80",
+    "slug": "vivo-smartphone",
+    "name": "Vivo Smartphone",
+    "category": "Smartphones",
+    "price": "৳40,000.00",
+    "brand": "Vivo",
+    "availability": "Unofficial",
+    "released": "28 Apr 2025",
+    "os": "Android 15, OriginOS 5",
+    "display": "6.78\" 1260x2800 px",
+    "camera": "50MP 2160p",
+    "ram": "12/16GB",
+    "chipset": "Snapdragon 8s Gen 4",
+    "battery": "7000mAh, 120W",
+    "added_on": "28th April, 2025",
+    "last_updated": "25th May, 2025",
+    "images": [
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=500&q=80",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=500&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=500&q=80"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=500&q=80",
+    "slug": "oppo-smartphone",
+    "name": "Oppo Smartphone",
+    "category": "Smartphones",
+    "price": "৳40,000.00",
+    "brand": "Oppo",
+    "availability": "Unofficial",
+    "released": "28 Apr 2025",
+    "os": "Android 15, ColorOS 14",
+    "display": "6.78\" 1260x2800 px",
+    "camera": "50MP 2160p",
+    "ram": "12/16GB",
+    "chipset": "Snapdragon 8s Gen 4",
+    "battery": "7000mAh, 120W",
+    "added_on": "28th April, 2025",
+    "last_updated": "25th May, 2025",
+    "images": [
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=500&q=80",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=500&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=500&q=80"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=500&q=80",
+    "slug": "samsung-galaxy",
+    "name": "Samsung Galaxy",
+    "category": "Smartphones",
+    "price": "৳85,000.00",
+    "brand": "Samsung",
+    "availability": "Official",
+    "released": "01 May 2025",
+    "os": "Android 15, One UI 7",
+    "display": "6.9\" 1440x3200 px",
+    "camera": "108MP 8K",
+    "ram": "16GB",
+    "chipset": "Exynos 2500",
+    "battery": "6000mAh, 100W",
+    "added_on": "1st May, 2025",
+    "last_updated": "25th May, 2025",
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=500&q=80",
+      "https://images.unsplash.com/photo-1555617117-08fda9d63614?auto=format&fit=crop&w=500&q=80",
+      "https://images.unsplash.com/photo-1568043210943-e02f11c3d0e2?auto=format&fit=crop&w=500&q=80"
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1555617117-08fda9d63614?auto=format&fit=crop&w=500&q=80",
+    "slug": "xiaomi-mi-pro",
+    "name": "Xiaomi Mi Pro",
+    "category": "Smartphones",
+    "price": "৳50,000.00",
+    "brand": "Xiaomi",
+    "availability": "Official",
+    "released": "10 May 2025",
+    "os": "Android 15, HyperOS",
+    "display": "6.67\" 1080x2400 px",
+    "camera": "64MP 4K",
+    "ram": "8/12GB",
+    "chipset": "Snapdragon 8 Gen 3",
+    "battery": "5500mAh, 90W",
+    "added_on": "10th May, 2025",
+    "last_updated": "25th May, 2025",
+    "images": [
+      "https://images.unsplash.com/photo-1568043210943-e02f11c3d0e2?auto=format&fit=crop&w=500&q=80",
+      "https://images.unsplash.com/photo-1570819170377-91889d84bffb?auto=format&fit=crop&w=500&q=80",
+      "https://images.unsplash.com/photo-1606813902914-f5fa87b0b729?auto=format&fit=crop&w=500&q=80"
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1606813902914-f5fa87b0b729?auto=format&fit=crop&w=500&q=80",
+    "slug": "realme-neo-5",
+    "name": "Realme Neo 5",
+    "category": "Smartphones",
+    "price": "৳35,000.00",
+    "brand": "Realme",
+    "availability": "Unofficial",
+    "released": "15 May 2025",
+    "os": "Android 15, Realme UI 6",
+    "display": "6.72\" 1080x2412 px",
+    "camera": "64MP 4K",
+    "ram": "8/12GB",
+    "chipset": "MediaTek Dimensity 8200",
+    "battery": "5000mAh, 80W",
+    "added_on": "15th May, 2025",
+    "last_updated": "25th May, 2025",
+    "images": [
+      "https://images.unsplash.com/photo-1606813902914-f5fa87b0b729?auto=format&fit=crop&w=500&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=500&q=80",
+      "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=500&q=80"
+    ]
+  }
+]
