@@ -29,11 +29,11 @@ const Page = () => {
       <div className="flex flex-col md:flex-row gap-8">
         {/* Image Section */}
         <div className="flex flex-col items-center md:items-start flex-shrink-0">
-          <div className="w-full max-w-[555px] min-h-[555px] border border-gray-300 rounded-md overflow-hidden">
+          <div className="w-full min-w-[500px] min-h-[550px] border border-gray-300 rounded-md overflow-hidden p-2">
             <img
               src={selectedImage}
               alt={product.name}
-              className="w-full h-full object-cover"
+              className="w-full h-full object-cover rounded-md"
             />
           </div>
 
